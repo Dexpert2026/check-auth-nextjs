@@ -1,0 +1,50 @@
+{
+  "note": "List of GENUINE products. A submitted item is authenticated only if a matching entry is found here. All comparisons are CASE SENSITIVE. For items with mfgDate '2' (03/2022 or after) the serialNumber may be left empty ('') since it is not required.",
+  "products": [
+    {
+      "mfgDate": "1",
+      "serialNumber": "KPNP1S679K",
+      "authCode": "h5Ad13snk"
+    },
+    {
+      "mfgDate": "1",
+      "serialNumber": "78YZ1Q928H",
+      "authCode": "p8n8d3Qy"
+    },
+    {
+      "mfgDate": "1",
+      "serialNumber": "TGJK1T9A7E",
+      "authCode": "k7r5d3Tjt"
+    },
+    {
+      "mfgDate": "1",
+      "serialNumber": "78I91HC7AB",
+      "authCode": "wc16781I7"
+    },
+    {
+      "mfgDate": "1",
+      "serialNumber": "KST84G819K",
+      "authCode": "y7Ad32sjk"
+    },
+    {
+      "mfgDate": "1",
+      "serialNumber": "JQIJ1N34BQ",
+      "authCode": "P1Dc17kij"
+    },
+    {
+      "mfgDate": "1",
+      "serialNumber": "YBA117DCCJ",
+      "authCode": "nbw554nAy"
+    },
+    {
+      "mfgDate": "1",
+      "serialNumber": "IR9G1H8FCC",
+      "authCode": "u7p9b410i"
+    },
+    {
+      "mfgDate": "1",
+      "serialNumber": "IRST1S6AEK",
+      "authCode": "h4A164ssi"
+    }
+  ]
+}
